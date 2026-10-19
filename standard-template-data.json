@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T04:53:55.364459943Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-19T08:49:46.209889240Z",
     "templateType": "trip_l",
     "propertyId": "a596b08b-919b-4f14-b881-54e5e014e09f",
     "homepageId": "01a0b376-95bd-787e-9254-948a9bdd23f5"
@@ -12,7 +12,7 @@
     "nameEn": "Ganghwa Sunset Hill Private Pension",
     "description": "강화 노을언덕 독채 펜션입니다. 언덕 위 프라이빗 독채펜션에서 아름다운 노을 뷰와 바베큐를 즐기며 감성 힐링 여행을 경험해보세요.",
     "subtitle": "",
-    "address": "인천 강화군 하점면 강화대로1204번길 38-6 강화 언덕위하얀집",
+    "address": "인천 강화군 하점면 강화대로1204번길 38-6 강화 노을언덕 독채 펜션",
     "latitude": 37.7753353909051,
     "longitude": 126.414260426328,
     "contactPhone": [
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시이후 입실 시 사전문의 필수",
-    "usageGuide": "[언덕 위 프라이빗 독채펜션에서 아름다운 노을 뷰와 바베큐를 즐기며 감성 힐링 여행을 경험해보세요.]\n\n- 이용 부주의로 인한 안전사고 및 귀중품 분실에 대해서는 책임지지 않습니다.\n- 입실 및 퇴실 시간을 준수해주시기 바랍니다.\n- 퇴실 시 쓰레기 분리수거 및 사용하신 식기 세척 부탁드립니다.\n- 폭죽 및 화기류 사용은 제한됩니다.\n- 연박 예약 시 숙박 요금 10% 할인 혜택이 제공됩니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시이후 입실 시 사전문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 12개월 미만 무료 / 기준인원 포함\n\n[개별바베큐]\n- 이용 객실:독채\n- 이용 장소:실내 바베큐장\n- 바베큐 형태:숯불\n- 제공 구성:숯 + 그릴\n- 이용 요금: 6인 기준 30,000원 추가 1인 5,000원  (1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00\n- 이용 시간: 15:00 ~ 23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인화기 금지\n\n[불멍]\n- 이용 객실: 독채\n- 운영 기간: 상시\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 1망기준 15,000원 (1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00\n- 이용 시간: 15:00 ~ 23:00\n- 우천 시: 이용 불가\n- 개인 불멍 용품(화롯대, 연료, 장작 등) 지참:불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n※ 무료 와이파이\n\n[주차장]\n- 주자창 보유\n- 이용 요금: 무료\n- 주차 대수: 5대\n- 위치: 숙소앞\n- 전기차 충전기 이용 불가",
+    "usageGuide": "[공지사항]\n[언덕 위 프라이빗 독채펜션에서 아름다운 노을 뷰와 바베큐를 즐기며 감성 힐링 여행을 경험해보세요.]\n\n- 이용 부주의로 인한 안전사고 및 귀중품 분실에 대해서는 책임지지 않습니다.\n- 입실 및 퇴실 시간을 준수해주시기 바랍니다.\n- 퇴실 시 쓰레기 분리수거 및 사용하신 식기 세척 부탁드립니다.\n- 폭죽 및 화기류 사용은 제한됩니다.\n- 연박 예약 시 숙박 요금 10% 할인 혜택이 제공됩니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19시이후 입실 시 사전문의 필수\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 12개월 미만 무료 / 기준인원 포함\n\n[개별바베큐]\n- 이용 객실:독채\n- 이용 장소:실내 바베큐장\n- 바베큐 형태:숯불\n- 제공 구성:숯 + 그릴\n- 이용 요금: 6인 기준 30,000원 추가 1인 5,000원  (1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00\n- 이용 시간: 15:00 ~ 23:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n※ 개인화기 금지\n\n[불멍]\n- 이용 객실: 독채\n- 운영 기간: 상시\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 1망기준 15,000원 (1박기준/현장결제)\n- 신청 시간: 15:00 ~ 21:00\n- 이용 시간: 15:00 ~ 23:00\n- 우천 시: 이용 불가\n- 개인 불멍 용품(화롯대, 연료, 장작 등) 지참:불가\n- 외부 장작 반입: 불가\n\n[부대시설]\n※ 무료 와이파이\n\n[주차장]\n- 주자창 보유\n- 이용 요금: 무료\n- 주차 대수: 5대\n- 위치: 숙소앞\n- 전기차 충전기 이용 불가",
     "reservationGuide": "[언덕 위 프라이빗 독채펜션에서 아름다운 노을 뷰와 바베큐를 즐기며 감성 힐링 여행을 경험해보세요.]\n\n- 이용 부주의로 인한 안전사고 및 귀중품 분실에 대해서는 책임지지 않습니다.\n- 입실 및 퇴실 시간을 준수해주시기 바랍니다.\n- 퇴실 시 쓰레기 분리수거 및 사용하신 식기 세척 부탁드립니다.\n- 폭죽 및 화기류 사용은 제한됩니다.\n- 연박 예약 시 숙박 요금 10% 할인 혜택이 제공됩니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -51,7 +51,7 @@
       "representativeName": "박춘배",
       "businessAddress": "인천광역시 강화군 하점면 강화대로 1204번길 38-6",
       "businessPhone": "",
-      "businessEmail": "pcb333333@naver3.com",
+      "businessEmail": "pcb333333@naver,com",
       "businessType": "corporate",
       "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
@@ -271,7 +271,7 @@
           {
             "id": "8b2fa8dc-e8cb-4167-8e03-e893302f3a17",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/27/xOMHjI4nFQck.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -281,7 +281,7 @@
           {
             "id": "bb47601b-f59d-4eea-86d7-094188f2f5ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/07/ZoPbap0lNSfg.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -289,7 +289,7 @@
           {
             "id": "c1c207e5-18ee-4d93-8da7-ebfb1616f265",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/27/6go1ibArTdIP.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -297,7 +297,7 @@
           {
             "id": "bb27749a-d444-482d-ac0c-8e16490c5ca0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/27/zFmWeEUYa9r3.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -305,7 +305,7 @@
           {
             "id": "26543bde-6015-4061-96d7-2af35422c7a7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/27/tdHMR9Aaxw1j.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -313,7 +313,7 @@
           {
             "id": "18c5479e-a2f3-4a17-8c1d-4d46824d80a6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/27/ZwmtikG8U3Al.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -321,7 +321,7 @@
           {
             "id": "b99785b5-d6b8-456a-9206-677cd1485af6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/07/4PFomnIadcpL.jpg",
-            "sortOrder": 5,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
