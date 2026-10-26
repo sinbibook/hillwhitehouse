@@ -379,10 +379,32 @@ var HeaderFooterMapper = {
     });
   },
 
+  // MAPPER: customFields.footer.ruralStayMark → [data-footer-rural-stay-mark] (로고 아래, 연락처 정보 위)
+  // 농어촌민박사업자 이미지가 있을 때만 노출하고, 없으면 숨겨 기존 푸터와 같다.
+  // 프리뷰는 같은 페이지에서 다시 매핑하므로 매번 표시 상태를 되돌린다.
+  mapRuralStayMark: function(data) {
+    var cf = (data && data.homepage && data.homepage.customFields) || {};
+    var mark = cf.footer && cf.footer.ruralStayMark;
+    var markUrl = mark && mark.url ? String(mark.url) : '';
+
+    document.querySelectorAll('[data-footer-rural-stay-mark-wrap]').forEach(function (wrap) {
+      wrap.style.display = markUrl ? '' : 'none';
+    });
+    document.querySelectorAll('[data-footer-rural-stay-mark]').forEach(function (img) {
+      if (!markUrl) {
+        img.removeAttribute('src');
+        return;
+      }
+      img.src = markUrl;
+      img.alt = (mark.description && String(mark.description).trim()) || '농어촌민박사업자';
+    });
+  },
+
   mapFooter: function(data) {
     if (!data || !data.property) return;
 
     this.mapCopyright(data);
+    this.mapRuralStayMark(data);
 
     var businessInfo = data.property.businessInfo || {};
     var phones = getPhoneListSafe(data.property.contactPhone);
