@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-05T02:44:41.900441898Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-08T15:25:29.231537212Z",
     "templateType": "trip_l",
     "propertyId": "a596b08b-919b-4f14-b881-54e5e014e09f",
     "homepageId": "01a0b376-95bd-787e-9254-948a9bdd23f5"
@@ -1012,7 +1012,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "편안한 쉼이 스며드는 공간",
                 "images": [
                   {
                     "id": "01a0b376-afc8-7108-9f55-8e1e0a587be8",
@@ -1026,7 +1026,7 @@
                 "description": ""
               },
               "about": {
-                "title": "편안한 쉼이 스며드는 공간",
+                "title": "",
                 "images": [
                   {
                     "id": "01a0b376-af83-7089-8e2d-5991648b0641",
